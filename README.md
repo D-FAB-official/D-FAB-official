@@ -24,7 +24,7 @@ Our community consists of passionate students at DGIST, each focusing on special
 
 | Name | Role | Core Interest | Portfolio |
 | :--- | :--- | :--- | :--- |
-| **Bukeon CHO** | Chair / Founder | Analog IC Design | [🔗 GitHub](https://github.com/BukeonCHO) |
+| **Bukeon CHO** | Chair / Founder | Analog IC Design | [🔗 GitHub](https://github.com/jadegun1124) |
 | **Member A** | Lead Researcher | Semiconductor Fabrication | [🔗 GitHub](https://github.com/MemberA) |
 | **Member B** | Study Lead | Device Physics & Modeling | [🔗 GitHub](https://github.com/MemberB) |
 | **Member C** | Member | Digital Logic Design (Verilog) | [🔗 GitHub](https://github.com/MemberC) |
