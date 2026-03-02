@@ -18,3 +18,15 @@ To cultivate well-rounded semiconductor experts who possess a holistic view—fr
 
 ---
 *Founded in 2026 at DGIST EECS | Bridging Physics and Architecture*
+
+## 👥 Members
+Our community consists of passionate students at DGIST, each focusing on specialized areas of the semiconductor lifecycle.
+
+| Name | Role | Core Interest | Portfolio |
+| :--- | :--- | :--- | :--- |
+| **Bukeon CHO** | Chair / Founder | Analog IC Design | [🔗 GitHub](https://github.com/BukeonCHO) |
+| **Member A** | Lead Researcher | Semiconductor Fabrication | [🔗 GitHub](https://github.com/MemberA) |
+| **Member B** | Study Lead | Device Physics & Modeling | [🔗 GitHub](https://github.com/MemberB) |
+| **Member C** | Member | Digital Logic Design (Verilog) | [🔗 GitHub](https://github.com/MemberC) |
+
+*Click on the link to view individual research repositories and project portfolios.*
