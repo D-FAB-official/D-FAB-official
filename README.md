@@ -1,6 +1,3 @@
-# D-FAB-official
-The Premier Semiconductor Club at DGIST. Mastering the full stack: from Fabrication &amp; Device Physics to Analog/Digital IC Design.
-
 # 🚀 Welcome to D-FAB (Device, Fabrication, and Analog-Digital Design)
 **D-FAB** is a student-led semiconductor research community at **DGIST**, dedicated to mastering the interconnected lifecycle of silicon technology.
 
